@@ -3,15 +3,23 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
-    <list default="true" id="bde290b6-c6e9-47f1-b33f-f9045566e132" name="Changes" comment="">
+<<<<<<< HEAD
 =======
+>>>>>>> dd17b12e6ca710a246b69ad44bddc03c0f218b3f
+    <list default="true" id="bde290b6-c6e9-47f1-b33f-f9045566e132" name="Changes" comment="">
     <list default="true" id="f42e786b-bcf6-4e25-bcb4-2f71515ba4c8" name="Changes" comment="">
->>>>>>> 0ac603b... first request in new branch
       <change beforePath="$PROJECT_DIR$/rehan" beforeDir="false" afterPath="$PROJECT_DIR$/rehan" afterDir="false" />
     </list>
+<<<<<<< HEAD
 =======
     <list default="true" id="bde290b6-c6e9-47f1-b33f-f9045566e132" name="Changes" comment="" />
 >>>>>>> newBranch
+=======
+    <list default="true" id="bde290b6-c6e9-47f1-b33f-f9045566e132" name="Changes" comment="" />
+    <list default="true" id="bde290b6-c6e9-47f1-b33f-f9045566e132" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/rehan" beforeDir="false" afterPath="$PROJECT_DIR$/rehan" afterDir="false" />
+    </list>
+>>>>>>> dd17b12e6ca710a246b69ad44bddc03c0f218b3f
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
